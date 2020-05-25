@@ -1,0 +1,2 @@
+This is some random text that is written in this file.
+Contents of this file will be encrypted using DES cipher algorithm.
